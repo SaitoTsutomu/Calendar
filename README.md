@@ -3,7 +3,7 @@ Calendar
 
 Calendar like cal of Unix
 
-    ex.
+ex.
     C:\> cal
           12 2012
     Su Mo Tu We Th Fr Sa

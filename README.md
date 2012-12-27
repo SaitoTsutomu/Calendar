@@ -15,4 +15,5 @@ ex.
     23 24 25 26 27 28 29
     30 31
 
-Red mark : Sundat or Japanese holiday
+Red mark : Sunday or Japanese holiday
+Blue mark : Saturday
